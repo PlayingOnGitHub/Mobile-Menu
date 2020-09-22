@@ -1,0 +1,27 @@
+{
+  "name": "mobile-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --progress --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlayingOnGitHub/Mobile-Menu.git"
+  },
+  "author": "Joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlayingOnGitHub/Mobile-Menu/issues"
+  },
+  "homepage": "https://github.com/PlayingOnGitHub/Mobile-Menu#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
